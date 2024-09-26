@@ -9,7 +9,12 @@
         "uart.h": "c"
     },
     "verilog.linting.linter": "iverilog",
-    "verilog.linting.iverilog.includePath": ["verilog","verilog/core","verilog/soc"],
+    "verilog.linting.iverilog.includePath": [
+        "verilog",
+        "verilog/core",
+        "verilog/soc"
+    ],
     "verilog.linting.iverilog.arguments": "-yverilog -I verilog/core",
-    "verilog.linting.iverilog.runAtFileLocation": false
+    "verilog.linting.iverilog.runAtFileLocation": false,
+    "verilog.ctags.path": "C:\\src\\ctags\\ctags.exe"
 }
