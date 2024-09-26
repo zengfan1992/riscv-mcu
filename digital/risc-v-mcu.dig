@@ -4954,7 +4954,7 @@
       <pos x="1300" y="-320"/>
     </visualElement>
     <visualElement>
-      <elementName>instruction-decoder.dig</elementName>
+      <elementName>inst-decoder-verilog.dig</elementName>
       <elementAttributes/>
       <pos x="1400" y="-20"/>
     </visualElement>

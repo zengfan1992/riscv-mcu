@@ -88,6 +88,10 @@ endmodule</string>
           <string>Width</string>
           <int>15</int>
         </entry>
+        <entry>
+          <string>iverilogOptions</string>
+          <string>-y C:\\Users\\gwx1330001\\Documents\\riscv-mcu\\verilog</string>
+        </entry>
       </elementAttributes>
       <pos x="720" y="260"/>
     </visualElement>
